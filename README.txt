@@ -1,2 +1,2 @@
-url=https://youtube.com/playlist?list=PLmXxqSJJq-yXrCPGIT2gn8b34JjOrl4Xf&si=Of1TsFrtIuiDXvYz
+url=https://youtu.be/xRM38_g0HPg?si=9DPIpoVymri-M864
 volumen=89
