@@ -1,2 +1,2 @@
-url=https://youtu.be/so2okUfzSAo?si=zxcMhSmzt-GTId_b
+url=https://www.youtube.com/live/jLVr7q84Vhw?si=7KCMix-OSaH21QTR
 volumen=87
